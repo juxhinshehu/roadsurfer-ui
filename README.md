@@ -10,6 +10,8 @@ yarn install
 yarn serve
 ```
 
+### Modify variable `VUE_APP_API_URL` inside .env
+
 ### Compiles and minifies for production
 ```
 yarn build
@@ -19,6 +21,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
