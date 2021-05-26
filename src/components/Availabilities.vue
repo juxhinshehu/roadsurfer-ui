@@ -1,5 +1,5 @@
 <template>
-  <div class="Home">
+  <div class="Availabilities">
     <form class="form-inline mb-5">
       <div class="form-group">
         <label class="mr-1"><b>Station</b></label>
@@ -45,7 +45,7 @@ import Datepicker from 'vuejs-datepicker';
 const axios = require('axios');
 
 export default {
-  name: 'Home',
+  name: 'Availabilities',
   props: {
   },
   data: function() {
